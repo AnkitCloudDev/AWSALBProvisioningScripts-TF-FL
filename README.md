@@ -1,4 +1,4 @@
-############### This Script creates an AWS Internet-facing Application Load Balancer in 2 availability zones ####################
+##This Script creates an AWS Internet-facing Application Load Balancer in 2 availability zones##
 
 <b>Pre-Requisites to run this script :</b>
 1. Terraform must be installed and properly setup in path environment variable
