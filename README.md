@@ -6,7 +6,7 @@
 git clone https://github.com/AnkitCloudDev/AWSALBProvisioningScripts-TF-FL.git
 3. Get the access and secret key of your AWS account and enter them in the <b>"provider.tf"</b> file. 
 
-<b>NOTE<b>: If you have awscli configured then only mention the region and remove the keys from provider as terraform will automatically pick them up from awscli config.
+<b>NOTE</b>: If you have awscli configured then only mention the region and remove the keys from provider as terraform will automatically pick them up from awscli config.
 
 <B>How to Download and run</B> : 
 
